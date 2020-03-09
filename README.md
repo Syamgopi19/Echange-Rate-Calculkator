@@ -1,1 +1,1 @@
-# Echange-Rate-Calculkator
+# Exchange-Rate-Calculator
